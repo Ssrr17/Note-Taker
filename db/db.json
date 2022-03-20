@@ -1,14 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-    {
-        "title":"sticky note",
-        "text":"death note"
-    },
-    {
-        "title":"sticky dose",
-        "text":"most note"
-    }
-]
+[{"title":"test note","text":"new note"},{"title":"sticky note","text":"death note33"},{"title":"new ","text":"note"}]
